@@ -1,0 +1,10 @@
+{
+    "name": "moodle-availability_pathway-form",
+    "builds": {
+        "moodle-availability_pathway-form": {
+            "jsfiles": [
+                "form.js"
+            ]
+        }
+    }
+}
