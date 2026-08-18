@@ -1,7 +1,7 @@
 # Pathway availability condition for Moodle (availability_pathway)
 
 An availability restriction that pairs with the
-[mod_pathway](../moodle-mod_pathway) activity module. It restricts access to
+[mod_pathway](https://github.com/motorpilotltd/moodle-mod_pathway) activity module. It restricts access to
 course activities and sections based on the selection a user has made in a
 pathway activity, either any option or one particular option.
 
